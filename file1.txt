@@ -1,4 +1,8 @@
 Il file 1.
 wow
+<<<<<<< HEAD
 gfgf
 dfdfd
+=======
+Aggiunta...
+>>>>>>> master
